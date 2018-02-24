@@ -4,8 +4,13 @@
 *.egg
 *.egg-info
 build
+__pycache__
 
 # Windows:
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+#init
+schema.sql
+testinitrun.py
