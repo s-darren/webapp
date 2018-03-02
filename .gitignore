@@ -5,6 +5,7 @@
 *.egg-info
 build
 __pycache__
+pymonitor.py
 
 # Windows:
 Thumbs.db
@@ -15,3 +16,10 @@ Desktop.ini
 schema.sql
 testinitrun.py
 test1.py
+test.html
+
+#log
+app.log
+access_log
+backup
+dist
