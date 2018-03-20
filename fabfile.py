@@ -13,7 +13,8 @@ from fabric.api import *
 env.user = 'darren'
 env.password = '12345'
 env.sudo_user = 'root'
-env.hosts = ['192.168.0.106']
+env.hosts = ['45.78.37.79']
+env.port = 26931
 
 db_user = 'www-data'
 db_password = 'www-data'
